@@ -4,7 +4,6 @@ import java.util.Collections;
 import java.util.Arrays;
 public class maxSubArray
 {
-
 	 static int largest(int [] arr)
 	 {
 	        int i;
