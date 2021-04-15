@@ -3,8 +3,6 @@ import java.util.Scanner;
 import java.util.Collections;
 public class swapArrayCount
 {
-	
-	
 	public static int minSwap(int [] arr,int n)
 	{
 		int [] dupli = new int[n];
