@@ -34,4 +34,5 @@ _In this problem we need to find minimum number of swaps required to sort the ar
 
 #### It all started with Day-1  :fire::fire:
 
-**CODE TO GROW**:trophy::trophy: 
+**CODE TO GROW**:trophy: 
+
